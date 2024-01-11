@@ -32,6 +32,6 @@ export const {Context , Provider} = createDataContext(
 
 # Wrap children that you want to use the context between \<Provider\>:
 
-<Provider>
- 	<ChildComponent>
-</Provider>
+\<Provider\>
+ 	\<ChildComponent\>
+\</Provider\>
