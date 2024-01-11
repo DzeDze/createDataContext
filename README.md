@@ -30,7 +30,7 @@ export const {Context , Provider} = createDataContext(
     initialState // could be anything like ‘’, [], 0, etc.
 );
 
-# Wrap children that you want to use the context between <Provider>:
+# Wrap children that you want to use the context between '<Provider>':
 
 <Provider>
  	<ChildComponent>
